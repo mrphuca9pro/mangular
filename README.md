@@ -1,2 +1,0 @@
-# mangular
-Created with CodeSandbox
